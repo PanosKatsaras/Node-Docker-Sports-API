@@ -9,13 +9,17 @@ Global Coverage: Fetch sports news from reputable newspapers around the world, o
 
 ## Tech Stack
 
-### Node.js: Backend runtime for handling API requests.
+### Node.js: 
+Backend runtime for handling API requests.
 
-### Express.js: Web application framework for building robust and flexible APIs.
+### Express.js: 
+Web application framework for building robust and flexible APIs.
 
-### Axios: HTTP client for making requests to fetch news articles from various sources.
+### Axios: 
+HTTP client for making requests to fetch news articles from various sources.
 
-### Cheerio: A lightweight, fast, and flexible implementation of jQuery for parsing HTML. Used for scraping news articles.
+### Cheerio: 
+A lightweight, fast, and flexible implementation of jQuery for parsing HTML. Used for scraping news articles.
 
 ## Getting Started
 
