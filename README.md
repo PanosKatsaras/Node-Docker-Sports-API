@@ -1,7 +1,7 @@
 # Sports News API
 
 ## Overview
-Welcome to the Sports News API! This project provides developers with a straightforward solution for accessing real-time sports news articles from newspapers worldwide. Whether you're building a sports app, website, or integrating sports news into your project, this API simplifies the process of fetching sports-related content.
+Welcome to the Sports News API! This project provides developers with a straightforward solution for accessing real-time sports news articles from newspapers worldwide. 
 
 ## Features
 
