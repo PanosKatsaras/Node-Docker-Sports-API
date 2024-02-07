@@ -9,7 +9,7 @@ Global Coverage: Fetch sports news from reputable newspapers around the world, o
 
 ## Tech Stack
 
-### Node.js (v20.11.0):
+### Node.js (20.11.0):
 
 Backend runtime for handling API requests.
 
