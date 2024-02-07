@@ -50,4 +50,4 @@ Open your browser or use a tool like cURL to access http://localhost:8000/news a
 Use http://localhost:8000/news/id to fetch a specific article by replacing id with the article's unique identifier.
 
 ### Docker Support
-This project can be containerized for easy deployment.
+This project can be containerized for easy deployment with Docker Image.
