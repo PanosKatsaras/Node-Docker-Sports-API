@@ -9,16 +9,20 @@ Global Coverage: Fetch sports news from reputable newspapers around the world, o
 
 ## Tech Stack
 
-### Node.js: 
+### Node.js:
+
 Backend runtime for handling API requests.
 
-### Express.js: 
+### Express.js:
+
 Web application framework for building robust and flexible APIs.
 
-### Axios: 
+### Axios:
+
 HTTP client for making requests to fetch news articles from various sources.
 
-### Cheerio: 
+### Cheerio:
+
 A lightweight, fast, and flexible implementation of jQuery for parsing HTML. Used for scraping news articles.
 
 ## Getting Started
@@ -26,8 +30,7 @@ A lightweight, fast, and flexible implementation of jQuery for parsing HTML. Use
 ### Clone the Repository:
 bash
 Copy code
-git clone https://github.com/your-username/sports-news-aggregator-api.git
-cd sports-news-aggregator-api
+git clone [https://github.com/your-username/sports-news-aggregator-api.git](https://github.com/PanosKatsaras/Node-Docker-Sports-API.git)
 
 ### Install Dependencies:
 bash
